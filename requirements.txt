@@ -3,3 +3,4 @@ requests
 pyarrow
 openpyxl
 numpy
+scikit-learn
